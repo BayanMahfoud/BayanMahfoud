@@ -11,8 +11,7 @@
 ### 🚀 About Me
 
 Building functional consciousness via autopoietic spiking neural networks.   
-Researcher in Computational Neuroscience &amp; AI Safety.   
-ASNN-FC Project Lead.
+Researcher in Computational Neuroscience &amp; AI Safety.
 
 🔭 &nbsp;I'm currently working on **Conscious AI via Spiking Neural Networks &amp; Homeostatic Valence**  
 🌱 &nbsp;I'm currently learning **Advanced SNNs, Markov Blankets, Transfer Entropy &amp; Neuromorphic Computing**  
@@ -54,3 +53,4 @@ ASNN-FC Project Lead.
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/BayanMahfoud">BayanMahfoud</a></i></p>
+
