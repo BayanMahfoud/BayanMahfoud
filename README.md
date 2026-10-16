@@ -1,56 +1,97 @@
 <p align="center">
   <a href="https://github.com/BayanMahfoud">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Bayan" alt="Hello! I&#39;m Bayan" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Bayan" alt="Hello! I'm Bayan" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=AI%20Student%20%26%20Researcher%20%20Exploring%20Neuromorphic%20Computing%20%26%20Bio-inspired%20AI" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=AI%20Student%20%7C%20Aspiring%20NeuroAI%20Researcher;Exploring%20Consciousness%20%26%20Disorders%20of%20Consciousness" alt="Research interests" />
 </p>
 
-### 🚀 About Me
+## About Me
 
-Building functional consciousness via autopoietic spiking neural networks.   
-Researcher in Computational Neuroscience &amp; AI Safety.
+I am a fourth-year undergraduate Artificial Intelligence student from Syria, building a research foundation in NeuroAI and computational neuroscience.
 
-🔭 &nbsp;I'm currently working on **Conscious AI via Spiking Neural Networks &amp; Homeostatic Valence**  
-🌱 &nbsp;I'm currently learning **Advanced SNNs, Markov Blankets, Transfer Entropy &amp; Neuromorphic Computing**  
-👯 &nbsp;I'm looking to collaborate on **Open-source neuromorphic AI tools, consciousness research, AI safety mechanisms**  
-💬 &nbsp;Ask me about **Computational Neuroscience, AI Consciousness, Free Energy Principle, IIT, Autopoiesis, SNNs**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **Building functional consciousness one spike at a time 🧠⚡**
+My long-term research interest is the study of consciousness and disorders of consciousness, with a particular interest in how computational modelling and adaptive neural interventions may help us understand and eventually modulate brain dynamics associated with conscious states.
 
-### 🛠️ Tech Stack
+I am currently at the literature-study and theory-development stage. I am strengthening my foundations in neuroscience, neural dynamics, mathematical modelling, scientific Python, machine learning, and reproducible research before defining a specific intervention mechanism.
+
+This profile documents my learning process, literature study, computational experiments, research questions, and future work.
+
+## Current Research Direction
+
+I am investigating the scientific literature on:
+
+- Consciousness and its neural correlates
+- Disorders of consciousness
+- Neural dynamics and large-scale brain networks
+- EEG and neural signal analysis
+- Computational modelling of brain states
+- Brain stimulation and neuromodulation
+- Closed-loop neural interventions
+- NeuroAI and reproducible research
+
+The specific intervention mechanism has not yet been defined. My current goal is to understand the problem deeply enough to formulate a precise, testable, and scientifically responsible research hypothesis.
+
+## Current Learning
+
+- Python for scientific computing
+- NumPy, Pandas, and Matplotlib
+- Linear algebra, probability, calculus, and dynamical systems
+- Machine learning fundamentals
+- Computational neuroscience
+- Neural signal processing
+- Scientific reading and writing
+- Git and reproducible research practices
+
+## Research Principles
+
+- Distinguishing established evidence from working hypotheses
+- Separating computational results from clinical claims
+- Documenting limitations and negative results
+- Using reproducible code and transparent methods
+- Treating potential neural interventions as safety-critical research
+
+## Collaboration Interests
+
+I am interested in learning from and eventually collaborating with researchers working in:
+
+- NeuroAI
+- Computational neuroscience
+- Consciousness science
+- Disorders of consciousness
+- EEG and brain-signal analysis
+- Neural dynamics
+- Neuromodulation
+- Mathematical modelling of brain networks
+
+At this stage, I am especially open to academic guidance, literature discussions, and feedback on research methodology.
+
+## Technical Foundations
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 Connect With Me
+> These tools represent my current learning and working foundations. I update this section as I build and verify new skills.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bayan-m-mahfoud/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bayanmahfoud10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Selected Writing
 
-### 💭 Dev Quote
+I also write accessible Arabic articles about artificial intelligence, neuroscience, consciousness, and emerging research questions.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+These articles are educational and exploratory. They are not substitutes for peer-reviewed research or clinical evidence.
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/BayanMahfoud">BayanMahfoud</a></i></p>
+- [Could Artificial Intelligence Help Restore Consciousness in Patients with Disorders of Consciousness?](https://almaqala.blog/article/ADZ2Rh4BqFZpik5qFTGZ )
 
+## Links
+
+- [Personal Academic Website](https://bayanmahfoud.github.io/BayanMahfoud-academic-preview/ )
+- [LinkedIn](https://www.linkedin.com/in/bayan-m-mahfoud/ )
+- [ORCID](https://orcid.org/0009-0001-2837-3322 )
+- [Kaggle](https://www.kaggle.com/aionstreet )
+- [Email](mailto:bayanmahfoud10@gmail.com)
