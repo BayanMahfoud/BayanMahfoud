@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=AI%20Student%20%7C%20Aspiring%20NeuroAI%20Researcher;Exploring%20Consciousness%20%26%20Disorders%20of%20Consciousness" alt="Research interests" />
 </p>
 
-# Bayan Mahfoud
-
 Fourth-year undergraduate Artificial Intelligence student from Syria and founder and lead researcher of [MIND-B](https://mindb-qk5njhtw.manus.space/ ), a personal research laboratory I am building from the ground up.
 
 ## About me
